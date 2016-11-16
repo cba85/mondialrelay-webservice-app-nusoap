@@ -2,7 +2,7 @@
 
 Create shipping, get barcodes of a shipping and track a shipping using Mondial Relay webservice.
 
-For more informations about this web application, visit [http://webservice.mondialrelay-woocommerce.com](http://webservice.mondialrelay-woocommerce.com) (in french).
+For more informations, visit [webservice.mondialrelay-woocommerce.com](http://webservice.mondialrelay-woocommerce.com) (in french).
 
 ![Mondial Relay Webservice](assets/img/screenshot.jpg)
 
