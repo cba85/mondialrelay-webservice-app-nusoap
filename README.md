@@ -34,6 +34,10 @@ If you have issues with Mondial Relay webservice, contact Mondial Relay.
 
 You can find documentation (in french and english) about the Mondial Relay webservice on Mondial Relay website : [http://www.mondialrelay.fr/solutionspro/documentation-technique/cahier-des-charges-informatiques/](http://www.mondialrelay.fr/solutionspro/documentation-technique/cahier-des-charges-informatiques/)
 
+## Code
+
+This web application is coded in simple *old school* PHP to be compatible with old hosts (>= PHP 5.3).
+
 ## Changelog
 
 Please see [CHANGELOG](CHANGELOG.md) for more information what has changed recently.
