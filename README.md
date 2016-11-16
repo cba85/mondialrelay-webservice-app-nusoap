@@ -22,12 +22,15 @@ You can change brand ("Enseigne") and private code ("Clé Privée") in ``/includ
 ## i18n
 
 This web application is in french by default.
-The other langage possible is english. You can change the langage in ``/includes/conf.php``.
+The other langage possible is english. 
+You can change the langage in ``/includes/conf.php``.
+
 The error messages are only in french.
 
 ## Mondial Relay webservice issues
 
 If you have issues with Mondial Relay webservice, contact Mondial Relay.
+
 You can find documentation (in french and english) about the Mondial Relay webservice on Mondial Relay website : [http://www.mondialrelay.fr/solutionspro/documentation-technique/cahier-des-charges-informatiques/](http://www.mondialrelay.fr/solutionspro/documentation-technique/cahier-des-charges-informatiques/)
 
 ## Changelog
@@ -41,7 +44,8 @@ Please see [CHANGELOG](CHANGELOG.md) for more information what has changed recen
 
 ## About Appstraction
 
-Appstraction is a webagency specialized in Laravel and Wordpress and based in Toulouse, France. More information [on our website](https://www.appstraction.fr). 
+Appstraction is a webagency specialized in Laravel and Wordpress and based in Toulouse, France. 
+More information [on our website](https://www.appstraction.fr).
 [More about Clément Barbaza](http://www.clementbarbaza.com).
 
 ## License
