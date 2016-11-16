@@ -23,6 +23,7 @@ You can change brand ("Enseigne") and private code ("Clé Privée") in ``/includ
 
 This web application is in french by default.
 The other langage possible is english. 
+
 You can change the langage in ``/includes/conf.php``.
 
 The error messages are only in french.
@@ -44,7 +45,8 @@ Please see [CHANGELOG](CHANGELOG.md) for more information what has changed recen
 
 ## About Appstraction
 
-Appstraction is a webagency specialized in Laravel and Wordpress and based in Toulouse, France. 
+Appstraction is a webagency specialized in Laravel and Wordpress and based in Toulouse, France.
+
 More information [on our website](https://www.appstraction.fr).
 [More about Clément Barbaza](http://www.clementbarbaza.com).
 
