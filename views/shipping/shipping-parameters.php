@@ -44,7 +44,7 @@
                     <hr>
                     <div class="form-group">
                         <label for="NDossier" class="text-muted"><?php _e("File number") ?> <em>(NDossier)</em></label>
-                        <input type="text" class="form-control" id="NDossier" name="NDossier" maxlength="15" value="<?php if(isset($_POST['NDossier'])) echo $_POST['Expe_Ad3']; ?>">
+                        <input type="text" class="form-control" id="NDossier" name="NDossier" maxlength="15" value="<?php if(isset($_POST['NDossier'])) echo $_POST['NDossier']; ?>">
                     </div>
                     <div class="form-group">
                         <label for="NClient" class="text-muted"><?php _e("Client number") ?> <em>(NClient)</em></label>

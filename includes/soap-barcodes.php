@@ -5,8 +5,8 @@
  */
 $params = array(
     'Enseigne'       => $Enseigne,
-    'Expeditions'    => $_POST['Expeditions'],
-    'Langue'         => $_POST['LIV_Rel_Pays'],
+    'Expeditions'    => checkParameter('Expeditions'),
+    'Langue'         => checkParameter('LIV_Rel_Pays'),
 );
 
 /**

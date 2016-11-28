@@ -3,7 +3,7 @@
 /**
  * Web Application parameters
  */
-$version = '1.0.0';
+$version = '1.0.1';
 $repository = 'https://github.com/cba85/mondialrelay-webservice';
 
 /**
