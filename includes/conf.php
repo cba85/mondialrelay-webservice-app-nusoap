@@ -3,7 +3,7 @@
 /**
  * Web Application parameters
  */
-$version = '1.0.1';
+$version = '1.0.2';
 $repository = 'https://github.com/cba85/mondialrelay-webservice';
 
 /**
@@ -23,6 +23,7 @@ $ClePrivee     = 'PrivateK';
  */
 $mondialrelay = 'http://www.mondialrelay.fr/';
 $mondialrelayContact = 'http://www.mondialrelay.fr/solutionspro/contact/';
+$mondialRelayWebservice = 'http://www.mondialrelay.fr/WebService/Web_Services.asmx?WSDL';
 
 /**
  * Status
