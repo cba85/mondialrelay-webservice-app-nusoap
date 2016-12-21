@@ -4,7 +4,7 @@ Create shipping, get barcodes of a shipping and track a shipping using Mondial R
 
 For more informations, visit [webservice.mondialrelay-woocommerce.com](http://webservice.mondialrelay-woocommerce.com) (in french).
 
-![Mondial Relay Webservice](assets/img/screenshot.jpg)
+![Mondial Relay Webservice](screenshot.jpg)
 
 ## Dependencies
 
