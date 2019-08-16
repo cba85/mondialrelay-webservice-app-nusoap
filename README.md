@@ -1,3 +1,5 @@
+🚨 This web application is not maintened anymore because this app uses nuSoap library and an old version of Mondial Relay webservice. A new updated and modern version is now integrated in WooCommerce Mondial Relay plugin since 4.0.0 version.
+
 # Mondial Relay shipping creation test
 
 Create shipping, get barcodes of a shipping and track a shipping using Mondial Relay webservice.
